@@ -1,0 +1,83 @@
+{
+	"files" : 
+	[
+		{
+			"name" : "BG.png",
+			"size" : 142220
+		},
+		{
+			"name" : "HealthEmpty.png",
+			"size" : 159415
+		},
+		{
+			"name" : "HealthFull.png",
+			"size" : 174770
+		},
+		{
+			"name" : "IconSlots.png",
+			"size" : 152705
+		},
+		{
+			"name" : "ManaFull.png",
+			"size" : 125786
+		},
+		{
+			"name" : "ManaIcon.png",
+			"size" : 116492
+		},
+		{
+			"name" : "Ref.png",
+			"size" : 268346
+		},
+		{
+			"name" : "StaminaEmpty.png",
+			"size" : 130955
+		},
+		{
+			"name" : "StaminaFull.png",
+			"size" : 128946
+		},
+		{
+			"name" : "UIBar2.xcf",
+			"size" : 1544079
+		},
+		{
+			"files" : 
+			[
+				{
+					"name" : "BgUI.png",
+					"size" : 42846
+				},
+				{
+					"name" : "HealthEmptyUI.png",
+					"size" : 27373
+				},
+				{
+					"name" : "HealthFullUI.png",
+					"size" : 28168
+				},
+				{
+					"name" : "ManaEmptyUI.png",
+					"size" : 9194
+				},
+				{
+					"name" : "ManaFullUI.png",
+					"size" : 8628
+				},
+				{
+					"name" : "StaminaEmptyUI.png",
+					"size" : 9137
+				},
+				{
+					"name" : "StaminaFullUI.png",
+					"size" : 8958
+				}
+			],
+			"name" : "Unity_UI"
+		},
+		{
+			"name" : "WeaponIcon.png",
+			"size" : 115446
+		}
+	]
+}
